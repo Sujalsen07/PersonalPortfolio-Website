@@ -7,7 +7,7 @@ import cssLogo from '../../assets/tech_logo/css.png';
 import jsLogo from '../../assets/tech_logo/javascript.png';
 import reactLogo from '../../assets/tech_logo/reactjs.png';
 import tailwindLogo from '../../assets/tech_logo/tailwindcss.png';
-import viteLogo from '../../assets/tech_logo/vitejs.png';
+import viteLogo from '../../assets/tech_logo/Vitejs.png';
 
 import nodeLogo from '../../assets/tech_logo/nodejs.png';
 import mongoLogo from '../../assets/tech_logo/mongodb.png';
