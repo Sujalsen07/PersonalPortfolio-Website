@@ -1,7 +1,7 @@
 import React from 'react';
 import csvtu from '../../assets/education_logo/csvtu.png';
 import ssipmt from '../../assets/education_logo/ssipmt.jpg';
-import NCS from '../../assets/education_logo/ncs.png';
+import NCS from '../../assets/education_logo/NCS.png';
 
 const education = [
   {
