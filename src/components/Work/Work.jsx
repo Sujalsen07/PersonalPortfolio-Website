@@ -10,28 +10,28 @@ const projects = [
     image: netflix,
     description:
       'Showcasing MERN stack skills through a Netflix Clone that combines visually appealing frontend design with backend services like JWT authentication and API handling.',
-    github: 'https://github.com/your-username/project1',
+    github: 'https://github.com/Sujalsen07/Netflix-Clone',
   },
   {
     title: 'Personal Portfolio website',
     image: ppw,
     description:
       'A responsive personal portfolio built using React.js, Tailwind CSS, and Vite, featuring animated sections to showcase skills and projects effectively.',
-    github: 'https://github.com/your-username/project2',
+    github: 'https://personal-portfolio-website-yyde-8trmglt4p-sujal-sens-projects.vercel.app/',
   },
   {
     title: 'Ecommerce Website using Django',
     image: ecommImg,
     description:
       'A dynamic e-commerce website built with Django, featuring user authentication, product listings, cart functionality, and an admin panel for seamless product and order management.',
-    github: 'https://github.com/your-username/project3',
+    github: 'https://github.com/Sujalsen07/E-Commerce-website-using-Django',
   },
   {
     title: 'Sentimental Analysis',
     image: senti1,
     description:
       'A sentiment analysis web app built using machine learning that classifies text input into positive, negative, or neutral sentiments with a user-friendly interface and real-time results.',
-    github: 'https://github.com/your-username/portfolio',
+    github: 'https://github.com/Sujalsen07/Sentiment-Analysis',
   },
 ];
 
