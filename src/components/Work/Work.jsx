@@ -1,14 +1,15 @@
 import React from 'react';
 import ecommImg from '../../assets/work_logo/ecomm.png'; // adjust path as needed
 import ppw from '../../assets/work_logo/ppw.png';
-import ED from '../../assets/work_logo/ED.png';
+import netflix from '../../assets/work_logo/netflix.png';
+import senti1 from '../../assets/work_logo/senti1.png';
 
 const projects = [
   {
-    title: 'Facial Emotion Recognition',
-    image: ED,
+    title: 'Netflix Clone',
+    image: netflix,
     description:
-      'I developed a facial emotion recognition system using machine learning that detects emotions in real time.',
+      'Showcasing MERN stack skills through a Netflix Clone that combines visually appealing frontend design with backend services like JWT authentication and API handling.',
     github: 'https://github.com/your-username/project1',
   },
   {
@@ -27,7 +28,7 @@ const projects = [
   },
   {
     title: 'Sentimental Analysis',
-    image: 'https://via.placeholder.com/400x220.png?text=Project+4',
+    image: senti1,
     description:
       'A sentiment analysis web app built using machine learning that classifies text input into positive, negative, or neutral sentiments with a user-friendly interface and real-time results.',
     github: 'https://github.com/your-username/portfolio',
